@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 130a25a7403769a4c9ce9f324690caec
+  - enabled: 1
+    path: Assets/Scenes/Lvl1.unity
+    guid: 4990eeb4d2bce144ba90fa02ff97cace
+  - enabled: 1
+    path: Assets/Scenes/Lvl2.unity
+    guid: 9de9095b6c9b0dc4a9641ed75993b82f
+  - enabled: 1
+    path: Assets/Scenes/Start1.unity
+    guid: 6f4f697e2f1b4104bb1bd75e9e991d44
+  - enabled: 1
+    path: Assets/Scenes/Start2.unity
+    guid: 2e84cf85b8c52844fb1a698e69de14ae
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 5cc1f91beffcaab4694d7e9888e7a059
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 951994fe8833c1b4cad966829228564c
+  - enabled: 1
+    path: Assets/Scenes/Stages.unity
+    guid: 8f41deb8e7dcccb4a94cb4ee464d56cc
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 8769acc750533054a8c7976ec7751c30
+  - enabled: 1
+    path: Assets/Scenes/InfoScene.unity
+    guid: 3d436ade98fc6064aa1ec3fbf1ed4e10
+  - enabled: 1
+    path: Assets/Scenes/Win2.unity
+    guid: 1d6bfa918cdee9742adab6f5f565379e
